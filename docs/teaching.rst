@@ -5,7 +5,7 @@ Yellowbrick for Teachers
 
 For teachers and students of machine learning, Yellowbrick can be used as a framework for teaching and understanding a large variety of algorithms and methods. In fact, Yellowbrick grew out of teaching data science courses at Georgetown's School of Continuing Studies!
 
-Les enseignants sont invités à télécharger les diapositives <https://www.slideshare.net/RebeccaBilbro/learning-machine-learning-with-yellowbrick>`_ via SlideShare sous la forme d'une présentation PowerPoint, et à les ajouter à leur matériel de cours pour les aider à enseigner ces concepts importants.
+Les enseignants sont invités à télécharger les diapositives `<https://www.slideshare.net/RebeccaBilbro/learning-machine-learning-with-yellowbrick>`_ via SlideShare sous la forme d'une présentation PowerPoint, et à les ajouter à leur matériel de cours pour les aider à enseigner ces concepts importants.
 
 The following slide deck presents an approach to teaching students about the machine learning workflow (the model selection triple), including:
 

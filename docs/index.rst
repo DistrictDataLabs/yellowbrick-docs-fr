@@ -4,9 +4,9 @@
     You can adapt this file completely to your liking, but it should at least
     contain the root `toctree` directive.
 
-Yellowbrick
-===========
-Analyse visuelle et outils de diagnostic pour faciliter la sélection de modèles d'apprentissage automatique
+Yellowbrick : Analyse visuelle et outils de diagnostic
+======================================================
+Analyse visuelle et outils de diagnostic pour faciliter la sélection de modèles d'apprentissage automatique!
 
 .. image:: images/readme/banner.png
 

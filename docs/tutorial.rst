@@ -60,7 +60,7 @@ Extraction de caractéristiques
 Nos données, y compris la cible, sont catégoriques. Nous devrons transformer ces valeurs en valeurs numériques pour l'apprentissage automatique. Afin d'extraire cela du jeu de données, nous devrons utiliser les transformateurs de scikit-learn pour transformer notre jeu de données d'entrée en quelque chose qui peut être adapté à un modèle. Heureusement, scikit-learn fournit des transformateurs pour convertir les étiquettes catégorielles en nombres entiers :
 `sklearn.preprocessing.LabelEncoder <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html>`__ et `sklearn.preprocessing.OneHotEncoder <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html>`__.
 
-Nous allons utiliser une combinaison de l'objet ``Pipeline`` de scikit-learn (voici <http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html>`__ un excellent article sur l'utilisation des pipelines par `Zac Stewart <https://twitter.com/zacstewart>`__), ``OneHotEncoder``, et ``LabelEncoder``:
+Nous allons utiliser une combinaison de l'objet ``Pipeline`` de scikit-learn (voici `<http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html>`__ un excellent article sur l'utilisation des pipelines par `Zac Stewart <https://twitter.com/zacstewart>`__), ``OneHotEncoder``, et ``LabelEncoder``:
 
 .. code:: python
 
