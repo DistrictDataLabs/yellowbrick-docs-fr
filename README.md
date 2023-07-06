@@ -19,7 +19,7 @@
 [ ![Banner](docs/images/readme/banner.png)](https://www.scikit-yb.org/en/latest/gallery.html)
 
 
-*Gratitude à Nicola Tabbah (https://github.com/NikoT98) pour avoir traduit la documentation Yellowbrick en français !*
+*Gratitude à [Nicola Tabbah](https://github.com/NikoT98) pour avoir traduit la documentation Yellowbrick en français !*
 
 ## Qu'est-ce que Yellowbrick ?
 
@@ -31,17 +31,23 @@ Pour une documentation complète sur l'API Yellowbrick, une galerie de visualisa
 
 Yellowbrick est compatible avec Python 3.4 ou plus récent et dépend également de scikit-learn et matplotlib. La manière la plus simple d'installer Yellowbrick et ses dépendances est de le faire à partir de PyPI avec pip, l'installateur de paquets préféré de Python.
 
-   $ pip install yellowbrick
+
+    $ pip install yellowbrick
+
 
 Notez que Yellowbrick est un projet actif et qu'il publie régulièrement de nouvelles versions avec plus de visualiseurs et de mises à jour. Afin de mettre à jour Yellowbrick vers la dernière version, utilisez pip comme suit.
 
+
     $ pip install -U yellowbrick
+
 
 Vous pouvez également utiliser le drapeau `-U` pour mettre à jour scikit-learn, matplotlib, ou tout autre utilitaire tiers qui fonctionne bien avec Yellowbrick vers leurs dernières versions.
 
 Si vous utilisez Anaconda (recommandé pour les utilisateurs de Windows), vous pouvez utiliser l'utilitaire conda pour installer Yellowbrick :
 
+
     conda install -c districtdatalabs yellowbrick
+
 
 ## Utilisation de Yellowbrick
 
@@ -84,17 +90,17 @@ Pour plus d'informations sur le démarrage de Yellowbrick, consultez le [Guide d
 
 Yellowbrick est un projet open source soutenu par une communauté qui acceptera avec gratitude et humilité toutes les contributions que vous pourriez apporter au projet. Grande ou petite, toute contribution fait une grande différence ; et si vous n'avez jamais contribué à un projet open source auparavant, nous espérons que vous commencerez avec Yellowbrick !
 
-Si vous souhaitez contribuer, consultez notre [guide du contributeur] (https://www.scikit-yb.org/en/latest/contributing/index.html). Au-delà de la création de visualiseurs, il y a de nombreuses façons de contribuer :
+Si vous souhaitez contribuer, consultez notre [guide du contributeur](https://www.scikit-yb.org/en/latest/contributing/index.html). Au-delà de la création de visualiseurs, il y a de nombreuses façons de contribuer :
 
-- Soumettre un rapport de bogue ou une demande de fonctionnalité sur [GitHub Issues] (https://github.com/DistrictDataLabs/yellowbrick/issues).
-- Ajoutez un carnet Jupyter à notre [galerie] d'exemples (https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples).
+- Soumettre un rapport de bogue ou une demande de fonctionnalité sur [GitHub Issues](https://github.com/DistrictDataLabs/yellowbrick/issues).
+- Ajoutez un carnet Jupyter à notre [galerie d'exemples](https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples).
 - Aidez-nous avec [user testing](https://www.scikit-yb.org/en/latest/evaluation.html).
 - Ajoutez à la documentation ou aidez-nous avec notre site web, [scikit-yb.org](https://www.scikit-yb.org).
 - Écrire des [tests unitaires ou d'intégration](https://www.scikit-yb.org/en/latest/contributing/developing_visualizers.html#integration-tests) pour notre projet.
 - Répondre aux questions sur nos problèmes, notre liste de diffusion, Stack Overflow, et ailleurs.
 - Traduire notre documentation dans une autre langue.
 - Écrire un billet de blog, tweeter ou partager notre projet avec d'autres.
-- Enseigner](https://www.scikit-yb.org/en/latest/teaching.html) à quelqu'un comment utiliser Yellowbrick.
+- [Enseigner](https://www.scikit-yb.org/en/latest/teaching.html) à quelqu'un comment utiliser Yellowbrick.
 
 Comme vous pouvez le voir, il y a de nombreuses façons de s'impliquer et nous serions très heureux que vous nous rejoigniez ! La seule chose que nous vous demandons est de respecter les principes d'ouverture, de respect et de considération des autres tels que décrits dans le [Python Software Foundation Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
@@ -119,7 +125,7 @@ Cela supprimera les anciens jeux de données et téléchargera les nouveaux. Vou
 
 ## Citer Yellowbrick
 
-Nous serions heureux que vous utilisiez Yellowbrick dans vos publications scientifiques ! Si vous le faites, veuillez nous citer en utilisant les [directives de citation] (https://www.scikit-yb.org/en/latest/about.html#citing-yellowbrick).
+Nous serions heureux que vous utilisiez Yellowbrick dans vos publications scientifiques ! Si vous le faites, veuillez nous citer en utilisant les [directives de citation](https://www.scikit-yb.org/en/latest/about.html#citing-yellowbrick).
 
 ## Affiliations
 
